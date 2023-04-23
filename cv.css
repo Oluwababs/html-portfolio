@@ -1,0 +1,17 @@
+body{
+    background-color: #9ac2c2;
+}
+.babs{ 
+    border-radius: 75px;
+    height: 250px;
+    width: 150px;
+}
+.p{
+    font-size: 20px;
+    font-weight: 100;
+    font-family:sans-serif;
+}
+.Obj{
+    font: size 25px;
+    line-height: 40px;
+}
